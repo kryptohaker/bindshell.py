@@ -24,7 +24,7 @@ This project is a lightweight reverse shell listener written in Python. It liste
 Run the listener:
 
 ```
-python3 shell.py --port 4444
+python3 bindshell.py --port 4444
 ```
 
 Example Output:
